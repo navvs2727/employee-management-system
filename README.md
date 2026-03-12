@@ -7,7 +7,7 @@ The system allows users to manage employee records such as adding new employees,
 
 ---
 
-## 🚀 Features
+## Features
 
 * Add New Employee
 * View All Employees
@@ -18,44 +18,42 @@ The system allows users to manage employee records such as adding new employees,
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **MySQL**
 * **mysql-connector-python**
 * **CRUD Operations**
-* **VS Code**
-
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Employee-Management-System
 
-│
-├── database.py → Database connection
-├── employee.py → Employee CRUD functions
-├── main.py → Main program
-├── requirements.txt → Required libraries
-└── README.md → Project documentation
+
+ - database.py       → Database connection
+ - employee.py       → Employee CRUD functions
+ - main.py           → Main program
+ - requirements.txt  → Required libraries
+ - README.md         → Project documentation
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-1️⃣ Clone the repository
+- Clone the repository
 
 git clone https://github.com/yourusername/employee-management-system.git
 
-2️⃣ Go to project folder
+- Go to project folder
 
 cd employee-management-system
 
-3️⃣ Install required library
+- Install required library
 
 pip install mysql-connector-python
 
-4️⃣ Setup MySQL database
+- Setup MySQL database
 
 Create database and table:
 
@@ -70,13 +68,13 @@ department VARCHAR(50),
 salary INT
 );
 
-5️⃣ Run the project
+- Run the project
 
 python main.py
 
 ---
 
-## 💻 Example Menu
+## Example Menu
 
 Employee Management System
 
@@ -89,7 +87,7 @@ Employee Management System
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 * Login Authentication System
 * GUI Version using Tkinter
@@ -98,15 +96,8 @@ Employee Management System
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Navneet Singh**
 Python Developer
-
-GitHub: https://github.com/yourusername
-
 ---
-
-## ⭐ Contribution
-
-If you like this project, please consider giving it a **star ⭐ on GitHub**.
