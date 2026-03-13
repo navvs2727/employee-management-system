@@ -62,19 +62,22 @@ Run the SQL commands given in the README file.
 python main.py
 
 
-- ## Setup MySQL database
+### Setup MySQL Database
 
- **Create database and table:**
+Create database and table:
 
- **CREATE DATABASE employee_db;
+```sql
+CREATE DATABASE employee_db;
 
-**USE employee_db;
+USE employee_db;
 
-**CREATE TABLE employees(
-**emp_id INT PRIMARY KEY,
-**name VARCHAR(50),
-**department VARCHAR(50),
-**salary INT );
+CREATE TABLE employees (
+    emp_id INT PRIMARY KEY,
+    name VARCHAR(50),
+    department VARCHAR(50),
+    salary INT
+);
+```
 
 - ## Run the project
 
