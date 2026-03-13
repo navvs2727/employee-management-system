@@ -39,6 +39,29 @@ Employee-Management-System
 
 ---
 
+## Installation and Setup
+
+1. Clone the repository
+
+git clone https://github.com/your-username/Employee-Management-System.git
+
+2. Move to project folder
+
+cd Employee-Management-System
+
+3. Install required libraries
+
+pip install -r requirements.txt
+
+4. Setup MySQL database
+
+Run the SQL commands given in the README file.
+
+5. Run the project
+
+python main.py
+
+
 - ## Setup MySQL database
 
 - Create database and table:
