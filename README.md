@@ -41,22 +41,22 @@ Employee-Management-System
 
 - ## Setup MySQL database
 
-Create database and table:
+- Create database and table:
 
-CREATE DATABASE employee_db;
+- CREATE DATABASE employee_db;
 
-USE employee_db;
+- USE employee_db;
 
-CREATE TABLE employees(
-emp_id INT PRIMARY KEY,
-name VARCHAR(50),
-department VARCHAR(50),
-salary INT
-);
+- CREATE TABLE employees(
+- emp_id INT PRIMARY KEY,
+- name VARCHAR(50),
+- department VARCHAR(50),
+- salary INT
+- );
 
 - ## Run the project
 
-python main.py
+**python main.py**
 
 ---
 
@@ -75,6 +75,6 @@ Employee Management System
 ---
 ## Author
 
-**Navneet Singh**
-Python Developer
+- **Navneet Singh**
+- Python Developer
 ---
