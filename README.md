@@ -43,7 +43,7 @@ Employee-Management-System
 
 1. Clone the repository
 
-git clone https://github.com/your-username/Employee-Management-System.git
+git clone https://github.com/navvs2727/employee-management-system.git
 
 2. Move to project folder
 
