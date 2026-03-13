@@ -78,24 +78,15 @@ python main.py
 
 Employee Management System
 
-1 Add Employee
-2 View Employees
-3 Update Employee
-4 Delete Employee
-5 Search Employee
-6 Exit
-
+- 1 Add Employee
+- 2 View Employees
+- 3 Update Employee
+- 4 Delete Employee
+- 5 Search Employee
+- 6 Exit
 ---
 
-## Future Improvements
-
-* Login Authentication System
-* GUI Version using Tkinter
-* Export data to CSV/Excel
-* Employee Salary Analytics
-
 ---
-
 ## Author
 
 **Navneet Singh**
