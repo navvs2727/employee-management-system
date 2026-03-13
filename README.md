@@ -31,11 +31,11 @@ The system allows users to manage employee records such as adding new employees,
 Employee-Management-System
 
 
- - database.py       → Database connection
- - employee.py       → Employee CRUD functions
- - main.py           → Main program
- - requirements.txt  → Required libraries
- - README.md         → Project documentation
+ - database.py       -> Database connection
+ - employee.py       -> Employee CRUD functions
+ - main.py           -> Main program
+ - requirements.txt  -> Required libraries
+ - README.md         -> Project documentation
 
 ---
 
