@@ -41,28 +41,24 @@ Employee-Management-System
 
 ## Installation and Setup
 
-1. Clone the repository
+### 1. Clone the repository
 
+```bash
 git clone https://github.com/navvs2727/employee-management-system.git
+```
+### 2. Move to project folder
 
-2. Move to project folder
-
+```bash
 cd Employee-Management-System
+```
 
-3. Install required libraries
+### 3. Install required libraries
 
+```bash
 pip install -r requirements.txt
+```
 
-4. Setup MySQL database
-
-Run the SQL commands given in the README file.
-
-5. Run the project
-
-python main.py
-
-
-### Setup MySQL Database
+### 4. Setup MySQL database
 
 Create database and table:
 
@@ -79,12 +75,12 @@ CREATE TABLE employees (
 );
 ```
 
-- ## Run the project
+### 5. Run the project
 
-**python main.py**
-
+```bash
+python main.py
+```
 ---
-
 ## Example Menu
 
 Employee Management System
