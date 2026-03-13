@@ -1,4 +1,4 @@
-# Employee Management System (Python + MySQL)
+## Employee Management System (Python + MySQL)
 
 A simple and efficient **Employee Management System** built using **Python and MySQL**.
 This project demonstrates the implementation of **CRUD operations** with database integration.
@@ -39,21 +39,7 @@ Employee-Management-System
 
 ---
 
-##  Installation & Setup
-
-- Clone the repository
-
-git clone https://github.com/yourusername/employee-management-system.git
-
-- Go to project folder
-
-cd employee-management-system
-
-- Install required library
-
-pip install mysql-connector-python
-
-- Setup MySQL database
+- ## Setup MySQL database
 
 Create database and table:
 
@@ -68,7 +54,7 @@ department VARCHAR(50),
 salary INT
 );
 
-- Run the project
+- ## Run the project
 
 python main.py
 
@@ -78,12 +64,12 @@ python main.py
 
 Employee Management System
 
-- 1 Add Employee
-- 2 View Employees
-- 3 Update Employee
-- 4 Delete Employee
-- 5 Search Employee
-- 6 Exit
+-  Add Employee
+-  View Employees
+-  Update Employee
+-  Delete Employee
+-  Search Employee
+-  Exit
 ---
 
 ---
