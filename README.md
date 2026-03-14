@@ -97,5 +97,5 @@ Employee Management System
 ## Author
 
 - **Navneet Singh**
-- Python Developer
+- **Python Developer**
 ---
